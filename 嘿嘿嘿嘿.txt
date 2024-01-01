@@ -1,0 +1,13 @@
+央视频道,#genre#
+cctv1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+cctv7,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+cctv8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+cctv9,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+cctv10,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+
+卫视频道,#genre#
+广东卫视,http://218.13.170.98:9901/tsfile/live/0017_1.m3u8
+地方频道,#genre#
+港·澳·台,#genre#
+高清频道,#genre#
+其他频道,#genre#
